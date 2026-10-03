@@ -1,0 +1,18 @@
+# downloaded videos (copyrighted; see ciws/MANIFEST.txt for links)
+ciws/videos/
+
+# bundled tools (platform-specific binaries, reinstalled on demand)
+ciws/scripts/ffmpeg
+ciws/scripts/yt-dlp
+
+# bulk intermediate frames (derived from videos; regeneration commands in ciws/MANIFEST.txt)
+ciws/frames/ljs1f/
+ciws/frames/ljs4f/
+ciws/frames/zbcity/
+ciws/frames/flesh/
+ciws/frames/j8/
+ciws/frames/0ec/
+
+# python
+__pycache__/
+*.pyc
